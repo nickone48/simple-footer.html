@@ -1,2 +1,1 @@
-# footers
-Added a simple footer
+un subsol simplu
